@@ -1,4 +1,4 @@
-# City Journey: 3D
+# City Journey: 3D https://xcryosa.github.io/city/
 
 **A browser-based 3D city-building game.** Develop a city, place buildings and roads, and manage its infrastructure through a compact browser interface.
 

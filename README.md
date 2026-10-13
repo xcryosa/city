@@ -57,3 +57,6 @@ Camera movement and placement interactions may depend on the selected tool and c
 ## License
 
 No license has been added yet. Until a license is specified in this repository, assume that reuse, redistribution, and modification require the author's permission.
+
+<img width="952" height="837" alt="image" src="https://github.com/user-attachments/assets/35698c78-cc3b-4383-bb04-0545f2815b3b" />
+

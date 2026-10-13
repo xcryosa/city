@@ -54,19 +54,6 @@ Camera movement and placement interactions may depend on the selected tool and c
 - JavaScript
 - [Three.js](https://threejs.org/)
 - Browser `localStorage` for local saves and settings
-
-## Screenshots
-
-Add a screenshot of the game here when one is available, for example:
-
-```md
-![City Journey: 3D gameplay](screenshots/city-journey.png)
-```
-
-## Project Status
-
-City Journey: 3D is an indie project under active development. The feature set, interface, and simulation systems may evolve.
-
 ## License
 
 No license has been added yet. Until a license is specified in this repository, assume that reuse, redistribution, and modification require the author's permission.
